@@ -14,7 +14,7 @@ Completely a freshman in developing
    	- Genshin Impact UID: 241468376
 ---
 
-Eagering to cooperating and learning from you!
+## Eagering to cooperating and learning from you!
 
 ---
 
