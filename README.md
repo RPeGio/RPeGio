@@ -11,6 +11,7 @@ Completely a freshman in developing
 	- WeChat: zhuangyuan103
 	- Bilibili: https://space.bilibili.com/430187058
 	- X/Twitter: <Search my name>(Not recommended)
+   	- Genshin Impact UID: 241468376
 ---
 
 Eagering to cooperating and learning from you!
