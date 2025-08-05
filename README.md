@@ -10,7 +10,7 @@ Completely a freshman in developing
 	- QQMail: 1121156227@qq.com
 	- WeChat: zhuangyuan103
 	- Bilibili: https://space.bilibili.com/430187058
-	- X/Twitter: <Search my name>(Not recommended)
+	- X/Twitter: Search my name (This platform is not recommended)
    	- Genshin Impact UID: 241468376
 ---
 
