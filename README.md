@@ -14,8 +14,9 @@ Completely a freshman in developing
    	- Genshin Impact UID: 241468376
 ---
 
-## Eagering to cooperating and learning from you!
+Eagering to cooperating and learning from you!
 
+---
 
 [![RPeGio's GitHub stats](https://github-readme-stats.vercel.app/api?username=RPeGio)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -23,6 +24,6 @@ Completely a freshman in developing
 
 ---
 
-> You can also follow my music platform if interested:
+> You can also follow my music platform account if interested:
 <a href="https://music.163.com/#/artist?id=34779628">NetEase Cloudmusic</a>
 <a href="https://y.qq.com/n/ryqq/singer/002h6aOv121rJ5">QQ Music</a>
