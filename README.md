@@ -6,7 +6,7 @@
 Completely a freshman in developing
 - 🔭 Basically learned Python, cpp, HTML, CSS and Javascript/Typescript. Trying Rust recently
 - 😖 Struggling with modern frontend frameworks like **Vue3**, **React**, etc..
-- 📫 In following ways you can contact me:
+- 📫 By following ways you can contact me:
 	- QQMail: 1121156227@qq.com
 	- Bilibili: https://space.bilibili.com/430187058
 	- X/Twitter: Search my name (This platform is not recommended)
